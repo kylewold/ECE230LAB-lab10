@@ -1,6 +1,6 @@
 # Sequential Circuits: Latches
 
-##Names: Kyle Wold, Brenen Elliott
+## Names: Kyle Wold, Brenen Elliott
 
 
 In this lab, you learned about the basic building block of sequential circuits: the latch.
